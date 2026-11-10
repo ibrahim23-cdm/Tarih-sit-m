@@ -1,115 +1,46 @@
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tarih Dünyam | 9. Sınıf</title>
-
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #f3f0ff;
-  color: #29243d;
-}
-
-header {
-  background: #6546c7;
-  color: white;
-  text-align: center;
-  padding: 35px 15px;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 32px;
-}
-
-header p {
-  margin-bottom: 0;
-}
-
-main {
-  max-width: 850px;
-  margin: 30px auto;
-  padding: 0 16px;
-}
-
-.card {
-  background: white;
-  padding: 24px;
-  margin-bottom: 20px;
-  border-radius: 14px;
-  box-shadow: 0 3px 12px #00000012;
-}
-
-h2 {
-  color: #6546c7;
-  margin-top: 0;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #6546c7;
-  color: white;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>9. Sınıf Tarih</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #1a237e, #0d47a1, #01579b);
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+      margin: 0;
+    }
+    h1 {
+      font-size: 36px;
+      color: #ffeb3b;
+    }
+    .kutu {
+      background: rgba(0, 0, 0, 0.4);
+      padding: 25px;
+      margin: 20px auto;
+      max-width: 500px;
+      border-radius: 15px;
+      font-size: 20px;
+      line-height: 1.6;
+    }
+  </style>
 </head>
-
 <body>
+  <h1>9. Sınıf Tarih</h1>
 
-<header>
-  <h1>📚 Tarih Dünyam</h1>
-  <p>9. Sınıf Tarih Bilgileri</p>
-</header>
+  <div class="kutu">
+    <strong>1. Temel Bilgi:</strong><br>
+    9. sınıf Tarih dersinde 3 ünite vardır:<br>
+    • Geçmişin İnşa Sürecinde Tarih<br>
+    • Eski Çağ Medeniyetleri<br>
+    • Orta Çağ Medeniyetleri
+  </div>
 
-<main>
-
-  <section class="card">
-    <h2>1. Tarih Bilimi Nedir?</h2>
-    <p>
-      Tarih; geçmişte yaşamış insan topluluklarının faaliyetlerini
-      yer ve zaman göstererek, neden-sonuç ilişkisi içinde inceleyen
-      bilim dalıdır.
-    </p>
-    <p>
-      Tarih bilimi geçmişi anlamamıza ve geleceğe daha bilinçli
-      bakmamıza yardımcı olur.
-    </p>
-  </section>
-
-  <section class="card">
-    <h2>2. Tarihin Konusu</h2>
-    <p>
-      İnsanların geçmişte gerçekleştirdiği siyasi, sosyal,
-      ekonomik ve kültürel faaliyetler tarihin konusunu oluşturur.
-    </p>
-    <p>
-      Savaşlar, göçler, antlaşmalar, ticaret ve devletlerin
-      kuruluşu tarihin incelediği olaylara örnektir.
-    </p>
-  </section>
-
-  <section class="card">
-    <h2>3. Tarihe Yardımcı Bilimler</h2>
-    <p><b>Arkeoloji:</b> Kazılar yoluyla geçmişi inceler.</p>
-    <p><b>Coğrafya:</b> Yer şekillerini ve insanların çevreyle ilişkisini inceler.</p>
-    <p><b>Kronoloji:</b> Olayları zaman sırasına dizer.</p>
-    <p><b>Epigrafi:</b> Kitabeleri inceler.</p>
-    <p><b>Nümizmatik:</b> Eski paraları inceler.</p>
-  </section>
-
-</main>
-
-<footer>
-  Tarih Dünyam © 2026
-</footer>
-
+  <div class="kutu">
+    <strong>2. Temel Bilgi:</strong><br>
+    Tarih öğrenmek, geçmişi anlamamıza ve bugünü daha iyi değerlendirmemize yardımcı olur.
+  </div>
 </body>
 </html>
